@@ -1,0 +1,1 @@
+&path=images/01/&prefix=&speed=4&antalBilder=5&fmode=0&fspeed=4

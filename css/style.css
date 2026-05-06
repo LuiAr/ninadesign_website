@@ -1,0 +1,76 @@
+/* CSS Document */
+
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	
+	background-color: #FFFFFF;
+}
+
+td {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 14px;
+	color: #404040;
+}
+
+.txt_14px {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 18px;
+	color: #404040;
+}
+
+.text_vit {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 16px;
+	color: #FFFFFF;
+}
+
+.rub20px {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 24px;
+	font-style: normal;
+	color: #BF2168;
+}
+
+a:link { color: #BF2168}
+a:visited { color: #BF2168}
+a:active { color: #BF2168}
+a:hover { color: #DF90B4}
+
+
+.form {	
+	font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #656B76; 
+}
+
+.kantlinje {	
+	border: 1px solid #CDCDCD;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #4E4E4E;
+}
+
+.knapp {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-style: normal;
+	color: #000000;
+}
+
+.px180 {
+	border: 1px solid #DFDFDF;
+	width: 180px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #4E4E4E;
+}
+
