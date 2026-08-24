@@ -1,2 +1,5 @@
 .DS_Store
 Thumbs.db
+
+# Local Claude Code working files (worktrees, launch config, design working copies)
+.claude/
