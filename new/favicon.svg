@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Nina Design">
+  <rect width="100" height="100" rx="22" fill="#BF2168"/>
+  <!-- Bricolage Grotesque 800 lowercase "n", outline converted to a path -->
+  <g transform="translate(50 50) scale(0.103321 -0.103321) translate(-325.50 -271.00)" fill="#FFFFFF">
+    <path d="M62 0V318V528H192L194 373H214Q227 429 251.0 467.0Q275 505 312.0 523.5Q349 542 399 542Q492 542 540.5 477.0Q589 412 589 270V0H427V252Q427 334 403.5 371.5Q380 409 334 409Q296 409 271.5 386.0Q247 363 235.0 325.0Q223 287 223 240V0Z"/>
+  </g>
+</svg>
